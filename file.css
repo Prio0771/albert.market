@@ -1,0 +1,26 @@
+body {
+    background-image:url('backgroundf.jpg');
+    color:aliceblue;
+}
+p{
+    font-size: larger;
+    font-weight:400;
+    color:aliceblue;
+h1{
+    font-size: larger;
+
+
+}
+h2{
+    font-size: larger;
+}
+a{
+   cursor: default;
+    color: crimson;
+    font-size: larger;
+    font-weight: 400;
+}
+.produse{
+    font-size:xx-large;
+    font-weight: 900;
+}
