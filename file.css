@@ -3,24 +3,26 @@ body {
     color:aliceblue;
 }
 p{
-    font-size: larger;
+    font-size: x-large;
     font-weight:400;
-    color:aliceblue;
+    color:black;}
 h1{
-    font-size: larger;
-
+text-align: center;
 
 }
 h2{
-    font-size: larger;
 }
 a{
-   cursor: default;
-    color: crimson;
+   cursor:crosshair;
     font-size: larger;
     font-weight: 400;
 }
 .produse{
     font-size:xx-large;
     font-weight: 900;
+}
+.buton{
+    background-color: aliceblue;
+    text-align: center;
+ color: black;
 }
